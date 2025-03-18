@@ -8,4 +8,10 @@
 - Extracting c-TF-IDF scores of the words relative to the topics
 - Highlight the representative words of each topic based on their c-tf-idf scores
 
+**Necessary Files**
+- A saved BERTopic model
+- Dataset used for topic modeling
+- A title file including titles of the topics (preferable with a column named "title")
+- Optionally a file for selected reviews to create visual interpretation of the top topics
+
 
