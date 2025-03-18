@@ -1,4 +1,4 @@
-#BERTopicXAI
+# BERTopicXAI
 
 **BERTopicXAI** is an explainable AI methodology that enhances interpretability of BERTopic model by creating visual explanations of a document’s related topics using topic's representative words. This is useful in opinion statements since the statement may talk about multiple aspects. Steps of BERTopicXAI is as follows:
 
