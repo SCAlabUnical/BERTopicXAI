@@ -1,0 +1,20 @@
+Topic Number,Top_words,title,description
+0,"['hotel', 'staff', 'location', 'clean', 'friendly', 'great', 'helpful', 'room', 'nice', 'good']",Hospitality Excellence,"Warm, clean, and helpful service in a great location."
+1,"['shower', 'bathroom', 'pool', 'room', 'bath', 'water', 'small', 'toilet', 'swimming', 'spa']",Bathroom and spa,Escape to a serene oasis with luxurious amenities and aquatic features.
+2,"['breakfast', 'staff', 'good', 'excellent', 'great', 'friendly', 'location', 'helpful', 'bar', 'nice']",Hotel Amenities Excellence,"Great staff, excellent service, and nice bar in a convenient location."
+3,"['staff', 'friendly', 'helpful', 'location', 'great', 'excellent', 'good', 'reception', 'nice', 'polite']",Welcoming Staff Experience,"Positive interactions with staff, great location, excellent service."
+4,"['bed', 'beds', 'comfortable', 'pillows', 'comfy', 'room', 'hard', 'uncomfortable', 'double', 'small']",Bed and Comfort,Experience comfort with plush pillows and cozy beds in a relaxing room.
+5,"['location', 'station', 'close', 'great', 'metro', 'city', 'far', 'tube', 'walk', 'train']",Proximity and Access,"City station with great metro and train connections, close to city center."
+6,"['room', 'hotel', 'booking', 'check', 'one', 'told', 'reception', 'card', 'booked', 'staff']",Hotel Booking Reception,Manage hotel reservations efficiently with staff at reception.
+7,"['nothing', 'everything', 'anything', 'perfect', 'think', 'stay', 'thing', 'every', 'fault', 'dislike']",Perfect Everything Thought,"Exploring perfection, thoughts, and dislikes in everything and anything."
+8,"['breakfast', 'expensive', 'included', 'price', 'food', 'buffet', 'eggs', 'could', 'poor', 'cooked']",Breakfast and Pricing,Indulge in lavish morning meals with gourmet options and exquisite service.
+9,"['air', 'conditioning', 'hot', 'fridge', 'room', 'cold', 'warm', 'temperature', 'heating', 'con']",Room Climate Control,"Manage room temperature with air conditioning, heating, and fridge for comfort."
+10,"['small', 'room', 'rooms', 'dark', 'bit', 'light', 'little', 'lighting', 'price', 'window']",Room Lighting,"Small, dark rooms with light, little lighting and affordable price."
+11,"['wifi', 'internet', 'slow', 'free', 'connection', 'poor', 'channels', 'signal', 'work', 'room']",Internet Connection Issues,"Problems with wifi, slow internet, poor signal in room."
+12,"['noisy', 'noise', 'hear', 'night', 'street', 'room', 'outside', 'rooms', 'could', 'sound']",Room Noise Levels,"Sounds of city life: streets, rooms, night, and outside noise."
+13,"['coffee', 'tea', 'kettle', 'milk', 'making', 'facilities', 'room', 'machine', 'would', 'cups']",Beverage Making Facilities,"Room with coffee, tea, milk, kettle, cups, and machine for guests."
+14,"['parking', 'car', 'park', 'expensive', 'hotel', 'free', 'day', 'cost', 'pay', 'euro']",Hotel Parking Costs,Exploring expensive hotel parking options and costs in euros.
+15,"['lift', 'elevator', 'lifts', 'stairs', 'slow', 'elevators', 'luggage', 'small', 'floor', 'working']",Elevator and Accessibility,"Enhancing building vertical transportation with modern, reliable lift technology."
+16,"['price', 'expensive', 'value', 'money', 'bit', 'high', 'pricey', 'little', 'overpriced', 'good']",Price and Value,"Exploring perceptions of cost, value, and pricing in consumer behavior."
+17,"['birthday', 'cake', 'special', 'champagne', 'staff', 'made', 'lovely', 'chocolates', 'thank', 'touch']",Celebratory Sweet Treats,"Indulge in delightful birthday cake, champagne, chocolates, and special touches."
+18,"['bar', 'drinks', 'prices', 'expensive', 'drink', 'price', 'wine', 'mini', 'beer', 'charge']",Bar Drink Prices,"Exploring expensive wine, beer, and mini bar charges."
