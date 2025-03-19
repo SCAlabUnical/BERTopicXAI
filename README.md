@@ -38,6 +38,7 @@ The following files are included in this repository:
 - **`hotel_revs_topic_model.csv`**: Dataset containing hotel reviews and their associated topics.
 - **`selected_reviews77_initial_probs-dimensions-interpretability.csv`**: A dataset with preprocessed selected reviews, including initial topic probabilities and interpretability scores.
 - **`titles_df10.csv`**: A file mapping topic numbers to their respective titles.
+- **`Bertopic_implementation.ipynb`** Jupyter Notebook containing the implementation of BERTopic with selected parameters.
 
 ## 📊 Example Output
 
