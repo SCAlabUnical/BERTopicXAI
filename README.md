@@ -76,4 +76,4 @@ BERTopicXAI is released under the MIT license. Feel free to contribute and impro
 
 ---
 
-If you have any questions or suggestions, open an issue in the repository or contact us by e-mail ccosentino@unical.it ! 🚀
+If you have any questions or suggestions, open an issue in the repository or contact us by e-mail cristian.cosentino@unical.it ! 🚀
